@@ -1,4 +1,3 @@
-
-const a = "Que tal";
+const a = "Que tal allldlldld";
 
 console.log(a);
